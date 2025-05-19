@@ -1,0 +1,14 @@
+Mon May 19 20:39:54 BRT 2025 : Apache Derby Servidor de Rede - 10.17.1.0 - (1913217) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Mon May 19 20:39:54 BRT 2025:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instância a816c00e-0196-eaeb-0a6a-ffffcb926fe5
+no diretório de banco de dados C:\Users\Aluno\Desktop\JavaPOO-Aula-main\JavaPOO-Aula-main\assets\databases\escola 
+
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=C:\Users\Aluno\Desktop\JavaPOO-Aula-main\JavaPOO-Aula-main\assets\derby
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Aluno\Desktop\JavaPOO-Aula-main\JavaPOO-Aula-main\assets\databases
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
